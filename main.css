@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+.big-title{
+  color: darkturquoise;
+}
+.description{
+color: white;
+}
+.first-company{
+  font-family: 'Inter Tight', sans-serif;;
+  border-style: dashed; border-color: violet; border-width: thin;
+}
+.second-company{
+  font-family: 'Alkalami', serif;
+  border-style: groove; border-color: chartreuse; border-width: medium;
+}
+.third-company{
+  font-family: 'Silkscreen', cursive;
+  border-style: groove; border-color: white; border-width: thick;
+}
